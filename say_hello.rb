@@ -7,10 +7,10 @@ end
 
 # Test Cases
 
-say_hello()
-say_hello
-say_hello("Nick")
-say_hello("Nick Lennon")
+# say_hello()
+# say_hello
+# say_hello("Nick")
+# say_hello("Nick Lennon")
 
 # puts "What is your name?"
 # name = gets.strip
